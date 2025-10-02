@@ -1,0 +1,6 @@
+{
+  "card_form":".payment_form_card_form",
+  "card_number": ".card_number",
+  "button_pay": ".style_1_base_button_payment_body > .style_1_base_button_payment",
+  "succ": ".payment_status_top_title"
+}
